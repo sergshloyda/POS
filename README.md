@@ -1,3 +1,3 @@
 # POS
 Проект по созданию ПО для торговой точки,с возможностью работы как в онлайн, так и в оффлайн режиме.
-[WIKI](https://github.com/sergshloyda/POS/wiki)
+[Описание проекта](https://github.com/sergshloyda/POS/wiki)
